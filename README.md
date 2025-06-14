@@ -1,6 +1,6 @@
 # Farmer’s Market Managing System (FMMS)
 
-**Subject:** Database Management System
+**Subject:** Database Management System  
 **Student:** Ayazbek Abdanur
 
 ## 📌 Project Description
